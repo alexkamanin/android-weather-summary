@@ -36,4 +36,4 @@
 
 ## Testing
 
-If you just want to test the performance of the application, download the `summary-release.apk` file from folder `../app/release/` and install it on your mobile device.
+If you just want to test the performance of the application, download the `app-release.apk` file from folder `../app/release/` and install it on your mobile device.
