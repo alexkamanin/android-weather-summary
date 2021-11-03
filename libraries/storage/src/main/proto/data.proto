@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_package = "ru.shurick.enterprise.storage";
+option java_multiple_files = true;
+
+enum MetaUnits {
+  UNKNOWN = 0;
+  KILOMETER = 1;
+  METER = 2;
+  KILOMETER_IN_HOUR = 3;
+  METER_IN_SECOND = 4;
+  PERCENT = 5;
+  MILLIMETERS_MERCURY = 6;
+  MILLIBAR = 7;
+  FAHRENHEIT = 8;
+  CELSIUS = 9;
+}
+
+message SettingsStore {
+  MetaUnits pressure = 1;
+  MetaUnits temperature = 2;
+  MetaUnits wind = 3;
+  MetaUnits visibility = 4;
+  bool isNotificationEnabled = 5;
+}

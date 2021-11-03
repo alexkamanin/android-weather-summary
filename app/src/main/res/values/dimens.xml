@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_button_start_end">30dp</dimen>
+    <dimen name="padding_button_text_top_bottom">5dp</dimen>
+
+    <dimen name="font_size_button">15sp</dimen>
+</resources>

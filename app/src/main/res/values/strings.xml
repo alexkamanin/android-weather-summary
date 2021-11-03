@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Summary</string>
+
+    <string name="format_feels_like_temp">Feels like %d\u00B0</string>
+    <string name="format_degree" translatable="false">%d\u00B0</string>
+
+    <string name="favorites_top_bar_text">Favorites cities</string>
+
+    <string name="search_cities_hint_text">Start typing name of the city</string>
+    <string name="search_cities_item_delimiter" translatable="false">,\u0020</string>
+    <string name="format_notification">Temperature\u0020%d\u00B0\u0020\nFeels like\u0020%d\u00B0</string>
+    <string name="notification_channel_hourly_weather_id" translatable="false">summary_app_hourly_weather_id</string>
+    <string name="notification_channel_hourly_weather_name">Hourly forecast</string>
+
+    <string name="notify_every_hour">Notify every hour</string>
+
+    <string name="permission_location_rationale_text">
+        Data about your current location
+        will be collected and used for
+        ensuring the operation of some functions
+        applications «Summary», for example, receiving
+        information about the local weather. Other
+        apps and services on your device
+        will not be able to access the specified
+        meteorological data. In order to,
+        to provide you with a permanent
+        weather information, this application
+        will process the data regularly
+        about your location, even if
+        You are not using the app. By clicking
+        on the «Agree» button, you agree
+        with the collection and processing of data on
+        your location for the specified
+        above the goals. You can turn off
+        using location data
+        in the application settings «Summary».
+    </string>
+    <string name="permission_location_denied_text">
+        Permission to use your current location has been denied.
+        We regret that our application has caused you to suspect the use of geolocation data.
+        To continue using the app, go to the app settings
+        «Summary» and provide the necessary permissions.\n\n
+        Sincerely, the «Summary» team.
+    </string>
+
+    <string name="permission_allow_button_text">Agree</string>
+    <string name="permission_allow_top_bar_text">Grant permission</string>
+    <string name="permission_allow_go_to_settings_button_text">Go to Settings</string>
+
+    <string name="settings_top_bar_text">Settings</string>
+
+    <string name="format_percent">%d %%</string>
+
+    <string name="title_sunrise">Sunrise</string>
+    <string name="title_sunset">Sunset</string>
+    <string name="title_wind">Wind</string>
+    <string name="title_pressure">Pressure</string>
+    <string name="title_humidity">Humidity</string>
+    <string name="title_visibility">Visibility</string>
+
+    <string name="format_km">%.1f km</string>
+    <string name="format_m">%d m</string>
+    <string name="format_mm_rt_st">%d mmhg</string>
+    <string name="format_millibar">%d mbar</string>
+    <string name="format_km_h">%.1f km/h (%s)</string>
+    <string name="format_m_s">%.1f m/s (%s)</string>
+
+    <string name="north">N</string>
+    <string name="south">S</string>
+    <string name="west">W</string>
+    <string name="east">E</string>
+    <string name="north_west">NW</string>
+    <string name="south_west">SW</string>
+    <string name="south_east">SE</string>
+    <string name="north_east">NE</string>
+
+    <string name="temperature">Temperature</string>
+
+    <string name="celsius">\u00B0C</string>
+    <string name="fahrenheit">\u00B0F</string>
+
+    <string name="pressure">Pressure</string>
+
+    <string name="millibar">mbar</string>
+    <string name="millimeters_mercury">mmhg</string>
+
+    <string name="wind">Wind speed</string>
+
+    <string name="kilometer_in_hour">km/h</string>
+    <string name="meter_in_second">m/s</string>
+
+    <string name="visibility">Visibility</string>
+
+    <string name="kilometer">km</string>
+    <string name="meter">m</string>
+
+    <string name="add_city_title_text">Do you want to add a new city?</string>
+    <string name="add_city_button_text">Add</string>
+    <string name="add_city_description_text">•\t\tAdd new cities to favorites to travel always with comfort\n•\t\tSwipe your finger to the right, you can always delete a city from favorites</string>
+
+    <string name="error_title_lost_connection">No internet connection</string>
+    <string name="error_description_lost_connection">Reconnecting...</string>
+
+    <string name="error_title_internal">Internal error</string>
+    <string name="error_description_internal">Try again later</string>
+
+    <string name="error_title_unknown">Unknown error</string>
+</resources>

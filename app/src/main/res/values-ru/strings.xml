@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Summary</string>
+
+    <string name="format_feels_like_temp">Ощущается как %d\u00B0</string>
+
+    <string name="favorites_top_bar_text">Избранные города</string>
+
+    <string name="search_cities_hint_text">Начните вводить название города</string>
+
+    <string name="notification_channel_hourly_weather_name">Почасовой прогноз</string>
+    <string name="format_notification">Температура\u0020%d\u00B0\u0020\nОщущается как\u0020%d\u00B0</string>
+
+    <string name="notify_every_hour">Уведомлять каждый час</string>
+
+    <string name="permission_location_rationale_text">
+        Данные о Вашем текущем местоположении
+        будут собираться и использоваться для
+        обеспечения работы некоторых функций
+        приложения «Summary», например, получения
+        информации о местной погоде. Другие
+        приложения и службы на Вашем устройстве
+        не смогут получать доступ к указанным
+        метеорологическим данным. Для того,
+        чтобы предоставлять вам постоянную
+        информацию о погоде, данное приложение
+        будет регулярно обрабатывать данные
+        о вашем местоположении, даже если
+        Вы не пользуетесь приложением. Нажав
+        на кнопку «Согласен», вы соглашаетесь
+        со сбором и обработкой данных о
+        вашем местоположении для указанных
+        выше целей. Вы можете выключить
+        использование данных о местоположении
+        в настройках приложения «Summary».
+    </string>
+    <string name="permission_location_denied_text">
+        Разрешение на использование Вашего текущего местоположения отклонено.
+        Мы сожалением, что Наше приложение вызвало у Вас подозрение об использовании данных геолокации.
+        Чтобы продолжить пользоваться приложением, перейдите в настройки приложения
+        «Summary» и предоставьте необходимые разрешения.\n\n
+        С уважением, команда «Summary».
+    </string>
+
+    <string name="permission_allow_button_text">Согласен</string>
+    <string name="permission_allow_top_bar_text">Предоставьте разрешение</string>
+    <string name="permission_allow_go_to_settings_button_text">Перейти к настройкам</string>
+
+    <string name="settings_top_bar_text">Настройки</string>
+
+    <string name="format_percent">%d %%</string>
+
+    <string name="title_sunrise">Восход</string>
+    <string name="title_sunset">Закат</string>
+    <string name="title_wind">Ветер</string>
+    <string name="title_pressure">Давление</string>
+    <string name="title_humidity">Влажность</string>
+    <string name="title_visibility">Видимость</string>
+
+    <string name="format_km">%.1f км</string>
+    <string name="format_m">%d м</string>
+    <string name="format_mm_rt_st">%d мм рт ст</string>
+    <string name="format_millibar">%d мбар</string>
+    <string name="format_km_h">%.1f км/ч (%s)</string>
+    <string name="format_m_s">%.1f м/с (%s)</string>
+
+    <string name="north">С</string>
+    <string name="south">Ю</string>
+    <string name="west">З</string>
+    <string name="east">В</string>
+    <string name="north_west">СЗ</string>
+    <string name="south_west">ЮЗ</string>
+    <string name="south_east">ЮВ</string>
+    <string name="north_east">СВ</string>
+
+    <string name="temperature">Температура</string>
+
+    <string name="celsius">\u00B0C</string>
+    <string name="fahrenheit">\u00B0F</string>
+
+    <string name="pressure">Давление</string>
+
+    <string name="millibar">мбар</string>
+    <string name="millimeters_mercury">мм рт ст</string>
+
+    <string name="wind">Скорость ветра</string>
+
+    <string name="kilometer_in_hour">км/ч</string>
+    <string name="meter_in_second">м/с</string>
+
+    <string name="visibility">Видимость</string>
+
+    <string name="kilometer">км</string>
+    <string name="meter">м</string>
+
+    <string name="add_city_title_text">Хотите добавить новый город?</string>
+    <string name="add_city_button_text">Добавить</string>
+    <string name="add_city_description_text">•\t\tДобавляйте новые города в избранные, чтобы пушествовать всегда с комфортом\n•\t\tСвайпом справа всегда можно удалить город из избранных</string>
+
+    <string name="error_title_lost_connection">Отсутствует подключение к интернету</string>
+    <string name="error_description_lost_connection">Повторное подключение...</string>
+
+    <string name="error_title_internal">Внутренняя ошибка</string>
+    <string name="error_description_internal">Повторите попытку позже</string>
+
+    <string name="error_title_unknown">Неизвестная ошибка</string>
+</resources>

@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/libraries/network/build/
+/libraries/network/build/intermediates/javac/debug/classes/
+/libraries/storage/build/
+/libraries/storage/build/intermediates/javac/debug/classes/
+/libraries/utils/build/
+/libraries/utils/build/intermediates/javac/debug/classes/
+/shared/city/build/
+/shared/city/build/intermediates/javac/debug/classes/
+/shared/weather/build/
+/shared/weather/build/intermediates/javac/debug/classes/
